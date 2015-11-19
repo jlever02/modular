@@ -127,7 +127,7 @@ i {
         }
 
         .products .product .product-listings .product-listing .product-compare {
-            border: .05rem solid #222;
+            border: 1px solid #222;
             color: #222;
             width: 25%;
             text-align: center;
