@@ -2024,3 +2024,19 @@
 .fa-fonticons:before {
   content: "\f280";
 }
+
+body {
+    background-color: black;
+}
+
+
+.fa-star {
+    color:gold;
+    height:30px;
+    width:30px;
+}
+.fa-star-gray {
+    color:gray;
+    height:30px;
+    width:30px;
+}
