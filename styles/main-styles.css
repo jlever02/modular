@@ -1,0 +1,59 @@
+﻿* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: white;
+}
+
+.products {
+    background-color: ActiveBorder;
+}
+
+    .products .product {
+        background-color: ActiveCaption;
+    }
+
+        .products .product ul.product-listings {
+            background-color: burlywood;
+        }
+
+            .products .product ul.product-listings li.product-listing {
+                background-color: antiquewhite;
+            }
+
+                .products .product ul.product-listings li.product-listing img {
+                    background-color: azure;
+                    height:auto;
+                }
+
+                .products .product ul.product-listings li.product-listing ul.product-colors {
+                    background-color: beige;
+                }
+
+                    .products .product .product-listings .product-listing ul.product-colors li.product-color {
+                        background-color: bisque;
+                    }               
+
+                .products .product .product-listings .product-listing ul.product-reviews {
+                    background-color: blanchedalmond;
+                    width:1.5rem;
+                    height:1.5rem;
+                }
+
+                .products .product .product-listings .product-listing ul.product-reviews li.product-review {
+                    background-color: blue;
+                }
+
+                .products .product .product-listings .product-listing h2 {
+                    background-color: brown;
+                }
+
+                .products .product .product-listings .product-listing p:first-of-type {
+                    background-color: cadetblue;
+                }
+
+                .products .product .product-listings .product-listing p:nth-child(1) {
+                    background-color:chartreuse;
+                }
